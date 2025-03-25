@@ -24,3 +24,11 @@ Solution: 🏆
 cat readme
 ````
 Copy the displayed password and use it to log in to Level 1.
+Level 1 → Level 2
+Task: 🔎
+Find the password stored in the - file.
+
+Solution: 🎯
+''''blash
+cat ./-
+''''
