@@ -14,8 +14,8 @@ ssh banditX@bandit.labs.overthewire.org -p 2220
 ````
 Replace X with the current level number and enter the retrieved password when prompted.
 
-Solutions ✅
-Level 0 → Level 1
+## Solutions ✅
+## Level 0 → Level 1
 Task: 📜
 Retrieve the password stored in the file readme in the home directory.
 
