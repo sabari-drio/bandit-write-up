@@ -1,11 +1,11 @@
-# Bandit OverTheWire Writeup (Levels 1-20) 🚀
+# Bandit OverTheWire Writeup (Levels 1-20) 
 
-## Introduction 📖
+## Introduction 
 
 The Bandit wargame from OverTheWire is a great way to learn Linux commands and basic cybersecurity concepts.  
 This writeup provides solutions for levels for beginners.
 
-## Connecting to Bandit 🔗
+## Connecting to Bandit 
 
 Each level requires an SSH connection using the provided credentials.
 
@@ -14,21 +14,21 @@ ssh banditX@bandit.labs.overthewire.org -p 2220
 ````
 Replace X with the current level number and enter the retrieved password when prompted.
 
-## Solutions ✅
+## Solutions 
 ## Level 0 → Level 1
-Task: 📜
+Task: 
 Retrieve the password stored in the file readme in the home directory.
 
-Solution: 🏆
+Solution: 
 ````bash
 cat readme
 ````
 Copy the displayed password and use it to log in to Level 1.
-##Level 1 → Level 2
-#Task: 🔎
+## Level 1 → Level 2
+# Task: 
 Find the password stored in the - file.
 
-#Solution: 🎯
+# Solution: 
 ````bash
 cat ./-
 ````
