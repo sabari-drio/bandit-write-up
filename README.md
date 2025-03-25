@@ -32,4 +32,5 @@ Find the password stored in the - file.
 ````bash
 cat ./-
 ````
+![Alt text]("C:\Users\User\OneDrive\Pictures\772a4b06-c22f-4ad1-85dc-9b74dcb736a9.JPG")
 
