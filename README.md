@@ -41,7 +41,7 @@ Find the password inside the spaces in this filename file.
 cat "spaces in this filename"
 ````
 ## Level 3 → Level 4
-# Task: 🕵️‍♂️
+# Task:
 Find the password inside a hidden file located in the inhere directory.
 
 # Solution: 
@@ -50,7 +50,7 @@ ls -a inhere
 cat inhere/.hidden
 ````
 ## Level 4 → Level 5
-# Task: 🧐
+# Task: 
 Find the password inside a file with human-readable content in inhere.
 
 # Solution: 
