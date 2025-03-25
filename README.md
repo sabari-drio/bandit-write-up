@@ -29,6 +29,7 @@ Task: 🔎
 Find the password stored in the - file.
 
 Solution: 🎯
-''''blash
+````bash
 cat ./-
-''''
+````
+
