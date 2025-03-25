@@ -32,5 +32,6 @@ Find the password stored in the - file.
 ````bash
 cat ./-
 ````
-![Alt text](772a4b06-c22f-4ad1-85dc-9b74dcb736a9.JPG)
+![screenshot](https://github.com/user-attachments/assets/c9ddc7dd-267d-4204-903b-ce21c16c9b21)
+
 
